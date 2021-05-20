@@ -15,3 +15,7 @@ c:\RV
 
 
 RV will convert a portuguese speaking audio file with name audio.wav into text.
+
+
+RV.py will convert file audio.wav into text on screen.
+RV.cmd will run RV.py and redirect output into file text.txt
