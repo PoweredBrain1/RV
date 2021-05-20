@@ -12,3 +12,6 @@ pip3 install SpeechRecognition pydub
 
 Program files should be on:
 c:\RV
+
+
+RV will convert a portuguese speacken audio file with name audio.wav into text.
