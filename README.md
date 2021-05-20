@@ -1,5 +1,5 @@
-# RV
-Voice recognition
+# RV - Reconhecimento de Voz
+Voice recognition - Portuguese
 
 
 
