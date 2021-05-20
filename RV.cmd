@@ -1,2 +1,2 @@
 @echo off
-RV > c:\RV\text.txt
+python c:\RV\RV.py > c:\RV\text.txt
