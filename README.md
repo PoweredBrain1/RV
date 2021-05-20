@@ -7,3 +7,8 @@ Then on anaconda prompt run the following comand, to install requirements:
 
 
 pip3 install SpeechRecognition pydub
+
+
+
+Program files should be on:
+c:\RV
